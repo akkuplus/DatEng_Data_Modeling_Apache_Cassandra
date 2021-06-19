@@ -7,7 +7,7 @@ This README summarized the underlying project to execute the Jupyter notebook. T
 
 ## Data
 The data sets consists of a Event dataset (in subdirectory `event_data`), that contains CSV files. The CSVs show the following structure:
-![images/img_0.png](img_1.png)
+![images/img_1.png](img_1.png)
 
 ## Prerequisites
 
